@@ -6,7 +6,7 @@ import { Courses } from '../Components/Courses'
 import { Quote } from '../Components/Quote'
 import { Contact } from '../Components/Contact'
 
-export const Home = () => {
+export const Home = () => { 
   return (
     <Layout>
         <Info />
